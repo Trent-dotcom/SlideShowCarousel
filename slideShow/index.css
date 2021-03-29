@@ -1,0 +1,14 @@
+.header
+{
+    display: flex;
+    padding-bottom: 12px;
+    padding-top: 10px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    width: 100%;
+   
+}
